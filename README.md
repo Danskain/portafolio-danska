@@ -74,6 +74,7 @@ space-portfolio/
   |- package.json
   |- postcss.config.js
   |- tailwind.config.ts
+  |- three-examples.d.ts
   |- tsconfig.json
 ```
 <!--- FOLDER_STRUCTURE_END --->
