@@ -46,7 +46,7 @@ export const Navbar = () => {
         </div>
 
         {/* Social Icons (Web) */}
-        <div className="hidden md:flex flex-row gap-5">
+        <div className="hidden md:flex flex-row gap-5 ml-40">
           {SOCIALS.map(({ link, name, icon: Icon }) => (
             <Link
               href={link}
