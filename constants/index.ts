@@ -353,7 +353,7 @@ export const EXPERIENCE_DATA = [
       "diseñar y estructurar una bases de datos funcional y duradera.",
       "tener la confianza de afrontar cualquier desafio que se me presente en cualquier lenguage.",
     ],
-    boss: ["Edwin Sanches", "+51 3208803093"],
+    boss: ["Edwin Sanches", "+57 3208803093"],
     certificate: "/certificados/certificado-montechelo-grupocos.pdf",
   },
   {
@@ -438,7 +438,7 @@ export const EXPERIENCE_DATA = [
     ],
     achievements: [
       "Desarrollar servicios web (apirest), consumir servicios rest  ",
-      "Seguir con un ritmo para el bun funcionamieto diario de todos los requerimientos dados",
+      "Seguir con un ritmo para el buen funcionamieto diario de todos los requerimientos dados",
     ],
     boss: ["Andres torres", "+57 3194436681"],
     certificate: "/certificados/Certificado laboral - Grupo OET.pdf",
@@ -501,7 +501,7 @@ export const EXPERIENCE_DATA = [
       "tener la capacidad de modificar cualquier aspecto relacionado con la pagina web como tal, ya sea modificar un panal, un fotograma cambiar imágenes o texto para los requerimientos de la agencia",
       "manejar el código HTML y PHP para hacer modificaciones desde hay. Tener acceso a cpanel para el alojamiento web, para tener claro cuánta gente nos visita.",
       "Manejar la base de datos, correos electrónicos y administrar los landing page",
-      "4.	administrar todo lo relacionado con redes sociales, así como instalación de programas, mantenimiento de equipo de cómputo e impresoras, Funciones específicas brindar soporte técnico a hardware, software y redes de cableado estructurado; mantenimiento preventivo y correctivo, configuración de perfiles de usuarios e impresoras y transferencia de datos, dentro del servidor, manejo de escalamiento mediante Help Desk de un punto central de llamadas"
+      "administrar todo lo relacionado con redes sociales, así como instalación de programas, mantenimiento de equipo de cómputo e impresoras, Funciones específicas brindar soporte técnico a hardware, software y redes de cableado estructurado; mantenimiento preventivo y correctivo, configuración de perfiles de usuarios e impresoras y transferencia de datos, dentro del servidor, manejo de escalamiento mediante Help Desk de un punto central de llamadas"
     ],
     achievements: [
       "Tener la responsabilidad de mantener todo el equipo de computo funcionando con todos los estándares de red requeridos ",
@@ -552,7 +552,7 @@ export const ACADEMIC_INFO = [
   },
   {
     title: "Bachiller",
-    date: "Mar. 2008",
+    date: "Dic. 2008",
     institution: "I.E.D Rafael Bernal Jimenes",
     city: "Bogotá D.C.",
   },

@@ -82,7 +82,14 @@ export const HeroContent = () => {
           <a
             href="/hoja_de_vida_r.docx"
             download
-            className="px-6 py-2 button-primary text-center text-white cursor-pointer rounded-full max-w-[220px] text-sm md:text-base font-medium shadow-md hover:scale-105 transition-transform"
+            className="px-6 py-2 button-primary text-center text-white cursor-pointer rounded-full max-w-[220px] text-xs md:text-sm font-medium shadow-md hover:scale-105 transition-transform"
+          >
+            Descargar HV resumida
+          </a>
+          <a
+            href="/HOJA_DE_VIDA.docx"
+            download
+            className="px-6 py-2 button-primary text-center text-white cursor-pointer rounded-full max-w-[220px] text-xs md:text-sm font-medium shadow-md hover:scale-105 transition-transform"
           >
             Descargar HV
           </a>
